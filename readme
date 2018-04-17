@@ -1,0 +1,18 @@
+starting point 
+	gs-accessing-data-jpa-complete
+	@ElementCollection(fetch=FetchType.EAGER) is key annotation.
+
+	todo: learn more about hibernate modes
+
+refs
+https://docs.jboss.org/hibernate/orm/5.1/userguide/html_single/chapters/domain/access.html
+
+https://www.thoughts-on-java.org/hibernate-tips-elementcollection/
+
+https://www.callicoder.com/hibernate-spring-boot-jpa-element-collection-demo/
+
+http://javasampleapproach.com/hibernate/use-hibernate-lazy-fetch-eager-fetch-type-spring-boot-mysql
+
+https://github.com/rodionovsasha/ShoppingList/blob/master/src/main/java/ru/rodionovsasha/shoppinglist/entities/ItemsList.java
+
+
